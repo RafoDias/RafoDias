@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @RafoDias
-- 👀 I’m interested in fazer coisas com o meu primo
-- 🌱 I’m currently learning a fazer coisas divertidas entre quatro paredes
-- 💞️ I’m looking to collaborate on o meu primo
-- 📫 How to reach me pelo meu primo
+- 👀 I’m interested in gamedev, specially tactics and strategy games
+- 🌱 I’m currently learning how to code. I know a bit of python and C#, and have been trying Unity and Godot. I'm still unsure which way to go, so I am taking some Computer Science classes hoping I get knowledgeable enough to make a wise decision
+- 💞️ I’m looking to collaborate on game projects, someday. When I am skilled enough to actually be helpful
 
 
 estou com preguiça de pensar mais
